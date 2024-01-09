@@ -1,4 +1,5 @@
 # Distributed System Protocols and Techniques I've Learned
+- AWS: EC2, Lambda, RDS, ElasticCache for Redis, S3, DynamoDB, Lex Chatbot
 - MapReduce
 - Gossip Protocol, Membership Protocol
 - P2P Systems :Napster, Gnutella, FastTrack, BitTorrent, Chord, Pastry, Kelps
